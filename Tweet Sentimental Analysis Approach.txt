@@ -1,0 +1,21 @@
+Approach : 
+1. Import dataset and required libraries
+2. Data Preprocessing & Cleaning - 
+	a. removing NAs, 
+	b. removing unwanted columns
+	c. removing hashes, 
+	d. http links,
+	e. mentions, 
+	f. retweets
+	g. unwanted characters, 
+	h. stop words
+	i. Lemmatization
+4. Applying Tfidf Vectorizer
+5. Using train test split
+6. Applying Multinomial Naive Bayes to fit the model on train data and validate on validation test data
+7. Predicting results on given test data and saving it to csv file.
+
+Tools: 
+1. Jupyter
+
+#Laveena Valecha - valechalaveena21@gmail.com
