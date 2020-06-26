@@ -11,8 +11,8 @@ Approach :
 	h. stop words
 	i. Lemmatization
 4. Applying Tfidf Vectorizer
-5. Using train test split
-6. Applying Multinomial Naive Bayes to fit the model on train data and validate on validation test data
+5. Using stratified train test split
+6. Applying Support Vector Classifier to fit the model on train data and validate on validation test data
 7. Predicting results on given test data and saving it to csv file.
 
 Tools: 
